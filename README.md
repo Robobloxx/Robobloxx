@@ -1,8 +1,8 @@
 Hello there! Im Robobloxx 😄
-Good to know 🡻
-Age: 14
-Gender: Male
-Country: Sweden
+* Good to know 🡻
+* Age: 14
+* Gender: Male
+* Country: Sweden
 
 ![images (4)](https://user-images.githubusercontent.com/82675227/141698470-d8df57da-2ac0-4904-b13d-4861465aa3cc.jpg)
 
