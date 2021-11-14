@@ -4,7 +4,7 @@ Hello there! Im Robobloxx 😄
 * Gender: Male
 * Country: Sweden
 * 🤔 Intrested in: Code,Computers,Tech 
-* ⚡ Fun fact: I upload on Youtube sometimes! [Youtube Channel] (https://www.youtube.com/channel/UClL4XgvEX1RhICgi2Lsc6EA)
+* ⚡ Fun fact: I upload on Youtube sometimes! [Youtube Channel](https://www.youtube.com/channel/UClL4XgvEX1RhICgi2Lsc6EA)
 * 🌱 I’m currently learning: Python
 * 🔜 Coming soon: Discord Archive server
 * 📫 Want to reach out to me? DM or add me on these socials! 🡻
