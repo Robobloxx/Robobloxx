@@ -1,25 +1,18 @@
-Hello there!
-
-
+Hello there!Im Robobloxx 😄
+Good to know 🡻
+Age: 14
+Gender: Male
+Country: Sweden
 
 ![images (4)](https://user-images.githubusercontent.com/82675227/141698470-d8df57da-2ac0-4904-b13d-4861465aa3cc.jpg)
 
+* 🤔 Intrested in: Code,Computers,Tech 
+* ⚡ Fun facts:
+* 🌱 I’m currently learning: Python
+* 🔜 Coming soon: Discord Archive server
+* 📫 Want to reach out to me? DM or add me on these socials! 🡻
+* Discord: Robobloxx#8733
+* Steam: https://steamcommunity.com/id/rust
+* Twitter: @BasedRobobloxx
+* Instagram: @packetfly
 
-
-Intrested in: Code,Computers,Tech 
-Socials
-Discord: Robobloxx#8733
-Steam: https://steamcommunity.com/id/rust
-Twitter: @BasedRobobloxx
-Instagram: packetfly
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
